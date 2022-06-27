@@ -1,11 +1,12 @@
 {
+  "name": "suyaa-nuxt",
   "private": true,
   "scripts": {
-    "start": "npm run build",
-    "build": "nuxt build",
-    "dev": "nuxt dev",
-    "generate": "nuxt generate",
-    "preview": "nuxt preview"
+    "start": "node .output/server/index.mjs",
+    "build": "nuxi build",
+    "dev": "nuxi dev",
+    "generate": "nuxi generate",
+    "preview": "nuxi preview"
   },
   "engines": {
     "node": "16.x"
