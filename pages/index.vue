@@ -1,8 +1,8 @@
 <template>
   <main>
     <div class="top">
-      <img class="top-img" src="static/header.png" alt="ヘッダー">
-      <img class="kyouryuu-img" src="static/kyouryuu.png" alt="恐竜">
+      <img class="top-img" src="@/static/header.png" alt="ヘッダー" />
+      <img class="kyouryuu-img" src="@/static/kyouryuu.png" alt="恐竜" />
       <div> 睡眠で成長するアニマルたちの育成ゲーム</div>
       <div>( ฅ˘ω˘)ฅsuyaa</div>
     </div>
