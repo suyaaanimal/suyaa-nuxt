@@ -1,5 +1,5 @@
 <template>
   <main>
-    <ContentDoc />
+    <ContentDoc path="/privacy" />
   </main>
 </template>
